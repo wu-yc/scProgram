@@ -1,1 +1,1 @@
-# scDiversity
+# scProgram
