@@ -3,7 +3,7 @@
 
 ## Requirements
     install.packages("philentropy")
-    install.packages("Seurat")
+    install.packages("Seurat") #Please use the version ≤4
     install.packages("data.table")
     install.packages("dplyr")
     install.packages("tidyverse")
