@@ -2,7 +2,17 @@
 `scProgram` is a R package for quantifying transcriptional programs at the single-cell resolution
 
 ## Requirements
-    install.packages(c("philentropy","Seurat","data.table","dplyr","tidyverse","Matrix","pheatmap","RColorBrewer","clusterProfiler","ggplot2"))    
+    install.packages("philentropy")
+    install.packages("Seurat")
+    install.packages("data.table")
+    install.packages("dplyr")
+    install.packages("tidyverse")
+    install.packages("Matrix")
+    install.packages("pheatmap")
+    install.packages("RColorBrewer")
+    install.packages("clusterProfiler")
+    install.packages("ggplot2")
+  
 
 ## Install
     devtools::install_github("wu-yc/scProgram")
