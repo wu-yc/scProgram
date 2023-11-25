@@ -54,6 +54,7 @@ The demo data is the dataset of Peripheral Blood Mononuclear Cells (PBMC) from 1
 
 `group.by` is the cell cluster or identity column of the given Seurat object.
 
+![Screenshot](https://github.com/wu-yc/scProgram/blob/main/scg_fig1.png)
 
 
 ### 4. Get the features of each cluster
@@ -67,6 +68,7 @@ The demo data is the dataset of Peripheral Blood Mononuclear Cells (PBMC) from 1
 
 `pvalue_cutoff` is the cutoff value for the enrichment analysis.
 
+![Screenshot](https://github.com/wu-yc/scProgram/blob/main/scg_fig2.png)
 
 
 
