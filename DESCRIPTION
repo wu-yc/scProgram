@@ -1,0 +1,15 @@
+Package: scProgram
+Title: Quantifying the single-cell program
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Ying-Cheng",
+           family = "Wu",
+           role = c("aut", "cre"),
+           email = "yingchengwu21@m.fudan.edu.cn",
+           comment = c(ORCID = "https://orcid.org/0000-0001-9473-546X"))
+Description: scProgram aims to quantify the programs at the single cell resolution in seconds.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
